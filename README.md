@@ -1,3 +1,2 @@
-Uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
-
-It's me!
+# Hello-World
+A repository created by following the GitHub tutorial.
